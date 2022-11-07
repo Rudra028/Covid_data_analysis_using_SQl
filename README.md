@@ -1,4 +1,4 @@
-# Data_analysis_using_SQL
+# Data Analysis Using SQL
 
  Analysis using SQL queries on Covid-19 data
 	
